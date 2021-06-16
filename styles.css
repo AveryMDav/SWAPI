@@ -1,0 +1,12 @@
+.getResidents{
+    background-color: midnightblue;
+    color: powderblue;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-transform: uppercase;
+    position: absolute;
+    padding: 10px;
+}
